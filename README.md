@@ -13,6 +13,7 @@ Collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
