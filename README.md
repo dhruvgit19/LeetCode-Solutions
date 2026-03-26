@@ -69,10 +69,19 @@ Collection of LeetCode questions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
