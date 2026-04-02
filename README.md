@@ -10,6 +10,7 @@ Collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@ Collection of LeetCode questions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
