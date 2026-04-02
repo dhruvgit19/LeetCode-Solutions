@@ -12,6 +12,7 @@ Collection of LeetCode questions
 | [0031-next-permutation](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
