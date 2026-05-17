@@ -21,6 +21,7 @@ Collection of LeetCode questions
 | [0136-single-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -108,4 +111,20 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
