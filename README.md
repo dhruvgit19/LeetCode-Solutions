@@ -7,6 +7,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
@@ -48,6 +50,7 @@ Collection of LeetCode questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
