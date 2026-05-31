@@ -12,6 +12,7 @@ Collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## String
