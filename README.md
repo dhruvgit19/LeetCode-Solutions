@@ -31,6 +31,7 @@ Collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## String
