@@ -28,6 +28,7 @@ Collection of LeetCode questions
 | [0136-single-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -44,6 +45,7 @@ Collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Divide and Conquer
