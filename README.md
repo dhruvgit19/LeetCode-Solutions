@@ -47,6 +47,7 @@ Collection of LeetCode questions
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ Collection of LeetCode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
