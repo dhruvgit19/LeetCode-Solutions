@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
