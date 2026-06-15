@@ -21,6 +21,7 @@ Collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
