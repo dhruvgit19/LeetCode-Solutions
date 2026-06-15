@@ -40,6 +40,7 @@ Collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
