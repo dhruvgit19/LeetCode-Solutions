@@ -135,6 +135,7 @@ Collection of LeetCode questions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [3110-score-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
