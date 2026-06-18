@@ -137,6 +137,7 @@ Collection of LeetCode questions
 | [0344-reverse-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3110-score-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
