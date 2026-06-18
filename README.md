@@ -49,6 +49,7 @@ Collection of LeetCode questions
 | [1901-find-a-peak-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2678-number-of-senior-citizens](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ Collection of LeetCode questions
 | [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
