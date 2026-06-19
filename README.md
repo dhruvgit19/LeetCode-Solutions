@@ -110,6 +110,7 @@ Collection of LeetCode questions
 | [0118-pascals-triangle](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -235,4 +237,12 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
