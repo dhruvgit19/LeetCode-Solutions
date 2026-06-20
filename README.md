@@ -65,6 +65,7 @@ Collection of LeetCode questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
