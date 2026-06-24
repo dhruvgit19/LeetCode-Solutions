@@ -175,6 +175,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 ## Binary Indexed Tree
@@ -244,6 +246,7 @@ Collection of LeetCode questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
