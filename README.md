@@ -253,4 +253,16 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
