@@ -39,6 +39,7 @@ Collection of LeetCode questions
 | [0410-split-array-largest-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -278,4 +281,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
