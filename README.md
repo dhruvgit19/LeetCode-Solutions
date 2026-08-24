@@ -194,6 +194,7 @@ Collection of LeetCode questions
 | [0258-add-digits](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
