@@ -53,6 +53,7 @@ Collection of LeetCode questions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +299,5 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
