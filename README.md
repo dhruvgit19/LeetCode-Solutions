@@ -252,6 +252,7 @@ Collection of LeetCode questions
 | [0234-palindrome-linked-list](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -294,11 +295,17 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
