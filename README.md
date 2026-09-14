@@ -19,6 +19,7 @@ Collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dhruvgit19/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -159,6 +162,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
