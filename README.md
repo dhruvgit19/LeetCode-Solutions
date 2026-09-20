@@ -185,6 +185,7 @@ Collection of LeetCode questions
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2974-minimum-number-game](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
