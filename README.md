@@ -46,6 +46,7 @@ Collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0724-find-pivot-index](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruvgit19/LeetCode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
